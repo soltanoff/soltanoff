@@ -13,6 +13,7 @@
 * Dashboards: `Kibana`, `Grafana`
 * OS-level virtualization: `Docker`, `Podman`
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soltanoff&theme=monokai)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soltanoff&theme=moonlight)](https://github.com/soltanoff)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soltanoff&theme=monokai)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soltanoff&theme=monokai)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=soltanoff&theme=moonlight)](https://github.com/soltanoff)&nbsp; &nbsp;&nbsp; [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soltanoff&theme=moonlight)](https://github.com/soltanoff)
+
