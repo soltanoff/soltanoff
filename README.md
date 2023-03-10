@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**soltanoff/soltanoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Main programming language: `Python`
+* Basic frameworks / tools: 
+  * `asyncio`
+  * `aiohttp`
+  * `FastAPI`
+  * `Django` (+`DRF`)
+  * `SQLAlchemy`
+* Databases: `MySQL`, `PostgreSQL`
+* Web servers: `Nginx`, `Apache`
+* Monitoring: `Zabbix`, `Prometheus`
+* Dashboards: `Kibana`, `Grafana`
+* OS-level virtualization: `Docker`, `Podman`
 
-Here are some ideas to get you started:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soltanoff&theme=monokai)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soltanoff&theme=monokai)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soltanoff&theme=monokai)
