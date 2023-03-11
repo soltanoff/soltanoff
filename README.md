@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 * Main programming language: `Python`
 * Basic frameworks / tools: 
@@ -17,3 +17,4 @@
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=soltanoff&theme=moonlight)](https://github.com/soltanoff)&nbsp; &nbsp;&nbsp; [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soltanoff&theme=moonlight)](https://github.com/soltanoff)
 
+![](https://komarev.com/ghpvc/?username=soltanoff&style=flat-square&color=red)
